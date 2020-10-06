@@ -1,5 +1,5 @@
 # Primer proyecto mongoDB
-subiéndolo a **GitHub**
+Subiéndolo a **GitHub**
 creando el archivo *README.md*
 ## Documentación del código de lenguaje que hemos estado utilizando:
 **git add .** = Prepara todos los archivos modificados, listos para "commit" desde el directorio hasta el staging.

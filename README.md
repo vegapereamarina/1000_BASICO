@@ -8,7 +8,7 @@ creando el archivo *README.md*
 
 **git push -u origin master** = Se encarga de obtener los últimos cambios del origen y mandarlos hasta el repositorio remoto.
 
-**git pull** = Es utilizado para actualizar tu repositorio local al commit más nuevo.
+**git pull** = Es utilizado para actualizar el repositorio local al commit más nuevo.
 
 **git clone** = Sirve para descargar un repositorio existente.
 

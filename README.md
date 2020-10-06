@@ -11,3 +11,12 @@ creando el archivo *README.md*
 **git pull** = para actualizar tu repositorio local al commit más nuevo.
 
 **git clone** = para descargar un repositorio existente.
+
+### Explicación del proyecto:
+Este proyecto consiste en comenzar con los conocimientos básicos de **base de datos**. 
+
+Por ejemplo, hemos aprendido a crear un repositorio y dominar los códigos de lenguaje citados anterioremente.
+
+Además, este ejercicio nos ayudará en el futuro para compartir y enviar documentos de manera optimizada.
+
+Y, por último, hemos adquirido conocimientos de MongoDB, Visual Studio Code, Git y GitHub.

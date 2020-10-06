@@ -2,7 +2,7 @@
 Subiéndolo a **GitHub**
 creando el archivo *README.md*
 ## Documentación del código de lenguaje que hemos estado utilizando:
-**git add .** = Se encarga de preparar todos los archivos modificados, listos para "commit" desde el directorio hasta el staging.
+**git add .** = Se encarga de preparar todos los archivos modificados listos para "commit" desde el directorio hasta el staging.
 
 **git commit -m "first commit"** = Su función es comprometer todos los archivos preparados en el historial de versiones hasta el repositorio local.
 
